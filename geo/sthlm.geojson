@@ -1,0 +1,6284 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 363,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 364,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 365,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 366,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 367,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 368,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 720,
+        "image": "",
+        "title": "Goodgift Thaimassage",
+        "address": "Valstavägen 30c, 195 50 Märsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8283821, 59.6143192],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 377,
+        "image": "",
+        "title": "Whailai Massage",
+        "address": "Ullångergatan 13, 162 54 Vällingby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8818689, 59.35780450000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 387,
+        "image": "",
+        "title": "Vinsta Thaimassage",
+        "address": "Krossgatan 22B, 162 50 Vällingby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8551427, 59.37130980000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 391,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 400,
+        "image": "",
+        "title": "Tongdee Thaimassage",
+        "address": "Kvarnvägen 3A, 194 77 Upplands Väsby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9039152, 59.52152759999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 408,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 416,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 426,
+        "image": "",
+        "title": "Thanannat Thaimassage",
+        "address": "Porlabacken 49, 124 70 Bandhagen, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0198289, 59.26139149999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 436,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 370,
+        "image": "",
+        "title": "ZANYA Thai Massage Rosersberg",
+        "address": "Rosersbergsvägen 36B, 195 71 Rosersberg, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8842847, 59.5825873],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 375,
+        "image": "",
+        "title": "Wonghom Massage",
+        "address": "Ståltrådsvägen 5, 168 68 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9732763, 59.3456151],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 380,
+        "image": "",
+        "title": "Wassana Thaispa",
+        "address": "Konstgjutarvägen 34, 121 44 Johanneshov, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0748139, 59.294318],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 390,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 399,
+        "image": "",
+        "title": "Udon 3 Spa & Massage",
+        "address": "Karlbergsvägen 61, 113 35 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0323851, 59.34211839999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 409,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 417,
+        "image": "",
+        "title": "Timspa Thaimassage",
+        "address": "Lysviksgatan 44, 123 42 Farsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0927348, 59.24743429999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 425,
+        "image": "",
+        "title": "Tiwa 3 Spa Massage",
+        "address": "Storsjövägen 61, 120 59 Årsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0392362, 59.2971361],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 454,
+        "image": "",
+        "title": "SuKhu Relaxing massage ( Vasastan )",
+        "address": "Tomtebogatan 2, 113 39 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.036973, 59.3413961],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374,
+        "image": "",
+        "title": "Wellness",
+        "address": "Sankt Eriksgatan 68, 113 20 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0359539, 59.3383663],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 379,
+        "image": "",
+        "title": "Wan Thong Massage",
+        "address": "Bergsgatan 47, 112 31 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0377208, 59.33049819999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 384,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 389,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 398,
+        "image": "",
+        "title": "Udon 4  Spa & Thaimassage",
+        "address": "Jungfrudansen 84, 171 51 Solna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9819751, 59.349701],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 407,
+        "image": "",
+        "title": "Titi Purplemassage & Salong",
+        "address": "Franzéngatan 27, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.008995, 59.339723],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 418,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 427,
+        "image": "",
+        "title": "Thanyapat Thaimassage",
+        "address": "Täppgatan 35, 151 34 Södertälje, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.6164343, 59.1976495],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 445,
+        "image": "",
+        "title": "Thai Fruängen",
+        "address": "Fruängsgatan 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9602888, 59.28499689999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 372,
+        "image": "",
+        "title": "ZANYA Thai Massage Runby",
+        "address": "Hagvägen 44, 194 40 Upplands Väsby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8962575, 59.5220117],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 376,
+        "image": "",
+        "title": "Wee Thai Massage",
+        "address": "Grimstagatan 43, 162 56 Vällingby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.87193, 59.3580482],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 378,
+        "image": "",
+        "title": "Yen Udom Thai Wellness",
+        "address": "Flygarvägen 33, 175 69 Järfälla, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8692606, 59.401372],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 381,
+        "image": "",
+        "title": "Wat Pho Massage",
+        "address": "Vibblabyvägen 36, 177 64 Järfälla, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8297779, 59.4231165],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 382,
+        "image": "",
+        "title": "Wan Mai Thaimassage",
+        "address": "Hantverkargatan 87, 112 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0283272, 59.33128190000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 383,
+        "image": "",
+        "title": "WeCare Health and Beauty",
+        "address": "Palmbladsvägen 3, 112 58 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0064188, 59.3280226],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 385,
+        "image": "",
+        "title": "Viengs Spa & Massage",
+        "address": "Kvarnbacksvägen 92, 168 74 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9465618, 59.3415563],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 386,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 388,
+        "image": "",
+        "title": "Wachira Thai Massage",
+        "address": "Kata Dalströms gata 17, 129 54 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9594939, 59.2852659],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 397,
+        "image": "",
+        "title": "UDON 6 Spa Massage",
+        "address": "Apelbergsgatan 59, 111 37 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0580132, 59.3346076],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 405,
+        "image": "",
+        "title": "Titima Thaimassage",
+        "address": "Stockholmsvägen 26, 195 34 Märsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.854313, 59.6227554],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 413,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 421,
+        "image": "",
+        "title": "Thida Thaimassage Relaxcenter",
+        "address": "Lugnets Allé 71, 120 67 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1069465, 59.3058396],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 429,
+        "image": "",
+        "title": "Udon 1 Spa & Massage",
+        "address": "Bokstigen 1, 137 34 Västerhaninge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1054786, 59.12530749999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 438,
+        "image": "",
+        "title": "Thaitanne Thaimassage",
+        "address": "Parkvägen 1, 186 48 Vallentuna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0932818, 59.5345216],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 447,
+        "image": "",
+        "title": "Tanto Thaimassage",
+        "address": "Tantogatan 31, 118 42 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0493461, 59.31087290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 455,
+        "image": "",
+        "title": "Thatpraphai thai massage",
+        "address": "Alviksvägen 37, 167 53 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9745564, 59.32897509999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 392,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402,
+        "image": "",
+        "title": "Tongta Thaimassage",
+        "address": "Nymärsta torg 5, 195 30 Märsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8547236, 59.6209103],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 411,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 422,
+        "image": "",
+        "title": "Thongtang Thaimassage",
+        "address": "Riddarplatsen 38, 177 30 Järfälla, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8375213, 59.4239376],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 431,
+        "image": "",
+        "title": "Thai Spa Thaimassage",
+        "address": "Kaplansgatan 8, 151 72 Södertälje, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.6238196, 59.1982873],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 440,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 449,
+        "image": "",
+        "title": "Tanawan Nisa Massage",
+        "address": "Ormbergsvägen 13, 193 36 Sigtuna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.7137569, 59.62244949999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 458,
+        "image": "",
+        "title": "Sthlm Thaimassage",
+        "address": "Spångavägen 333, 163 46 Spånga, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9009862, 59.3705255],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 483,
+        "image": "",
+        "title": "Siam Spa & Thaisalong",
+        "address": "Drottningholmsvägen 308, 167 31 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9564328, 59.3368347],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 393,
+        "image": "",
+        "title": "Uttrans Thaimassage",
+        "address": "K P Arnoldssons väg 53, 147 60 Tumba, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.7992226, 59.19742379999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401,
+        "image": "",
+        "title": "Wilawan Sabai Massage",
+        "address": "Bergslagsvägen 262b, 168 55 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8947882, 59.3470723],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 410,
+        "image": "",
+        "title": "Tong Chai Thaimassage",
+        "address": "Kristallvägen 9, 126 78 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9987254, 59.2899719],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 419,
+        "image": "",
+        "title": "Thung Ngein",
+        "address": "Bråviksvägen 36, 120 52 Årsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0528429, 59.29562670000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 428,
+        "image": "",
+        "title": "Thaimassage Kristineberg",
+        "address": "Ola Hanssonsgatan 1, 112 52 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0001354, 59.33354139999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 437,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 446,
+        "image": "",
+        "title": "Tangdee Terapi, Massage & Spa",
+        "address": "Kirunagatan 12, 162 61 Vällingby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8697685, 59.3635027],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 456,
+        "image": "",
+        "title": "Suk Thaimassage",
+        "address": "Upplandsgatan 75, 113 44 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0459339, 59.34495829999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 465,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 474,
+        "image": "",
+        "title": "Somluck Thaimassage",
+        "address": "Järnvägsgatan 70, 172 35 Sundbyberg, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9587426, 59.3652799],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 394,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 404,
+        "image": "",
+        "title": "Ton Nam Spa Thaimassage",
+        "address": "Tornslingan 43, 142 61 Trångsund, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1312231, 59.23058080000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 414,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 423,
+        "image": "",
+        "title": "Thip Thaimassage",
+        "address": "Centralvägen 69, 184 32 Åkersberga, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.2792691, 59.49385359999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 432,
+        "image": "",
+        "title": "Thai Sabai",
+        "address": "KVARNPLAN 6, 177 64 Järfälla, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8305551, 59.42382319999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 441,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 450,
+        "image": "",
+        "title": "Swethai AB",
+        "address": "Kostervägen 3, 181 35 Lidingö, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.133502, 59.3559423],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 395,
+        "image": "",
+        "title": "Vallentuna Fotvård & Massage",
+        "address": "Höjdvägen 27, 186 41 Vallentuna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0924412, 59.52651239999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 396,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 403,
+        "image": "",
+        "title": "TIWA2 Spa Massage",
+        "address": "Bäckvägen 105, 126 47 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9917335, 59.3013789],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 406,
+        "image": "",
+        "title": "Tiwa 4 Spa Massage Thai wellness",
+        "address": "Ålstavägen 6, 177 43 Järfälla, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8618261, 59.4204213],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 412,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 415,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 420,
+        "image": "",
+        "title": "The Friends Thai Massage",
+        "address": "Stora Torget 5D, 761 30 Norrtälje, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.7024342, 59.7568315],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 424,
+        "image": "",
+        "title": "The Massage Therapy",
+        "address": "Huvudskärsvägen 34, 121 54 Johanneshov, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1083604, 59.28577240000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 430,
+        "image": "",
+        "title": "Thai Ton Tan",
+        "address": "Karlavägen 102, 5tr, 115 26 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0974538, 59.33594979999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 439,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 448,
+        "image": "",
+        "title": "Tanapaa thaimassage",
+        "address": "Biblioteksgången 4, 183 34 Täby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0689066, 59.4453505],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 457,
+        "image": "",
+        "title": "StockholmRelax",
+        "address": "Nordmarksvägen 3, 123 72 Farsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1045519, 59.23555160000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 466,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 475,
+        "image": "",
+        "title": "SOFO Friskvårds Massage",
+        "address": "Ringvägen 143, 116 61 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.081712, 59.30889379999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 484,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 433,
+        "image": "",
+        "title": "Thai Spa Månen",
+        "address": "Hjälmarsvägen 6, 120 53 Årsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0563865, 59.2997458],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 442,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 451,
+        "image": "",
+        "title": "Sundbyberg massage",
+        "address": "Starrbäcksgatan 10, 172 74 Sundbyberg, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9610764, 59.3654269],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 461,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 470,
+        "image": "",
+        "title": "Soy Thaimassage",
+        "address": "Strindbergsgatan 44, 115 31 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.090469, 59.34211070000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 479,
+        "image": "",
+        "title": "Sigtuna massage & friskvård",
+        "address": "Stora Gatan 27, 193 35 Sigtuna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.7249483, 59.61680570000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 490,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 434,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 443,
+        "image": "",
+        "title": "Thai massage i Vällingby",
+        "address": "Duvedsvägen 2, 162 65 Vällingby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.872656, 59.3657905],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 452,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 460,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 469,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 478,
+        "image": "",
+        "title": "Sirimaya Massage",
+        "address": "Frövigatan 17, 124 70 Bandhagen, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0202773, 59.26383959999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 487,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 435,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 444,
+        "image": "",
+        "title": "Tarawadee Thaimassage",
+        "address": "Trollbergsvägen 18, 193 33 Sigtuna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.712717, 59.6209186],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 453,
+        "image": "",
+        "title": "Suk-Kay Thaimassage",
+        "address": "Pastellvägen 11, 121 36 Johanneshov, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0872945, 59.29243539999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 462,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 471,
+        "image": "",
+        "title": "Soo Beauty Salon",
+        "address": "Nordstjärnegatan 1A, 169 68 Solna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0145671, 59.3635257],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 480,
+        "image": "",
+        "title": "Sukanya Massage",
+        "address": "Järnlundsvägen 16, 120 60 Årsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0357534, 59.2975055],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 488,
+        "image": "",
+        "title": "Tuanthong Thaimassage",
+        "address": "Skärlingebacken 7, 124 33 Bandhagen, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0474207, 59.2696127],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 459,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 468,
+        "image": "",
+        "title": "Spånga Thaimassage",
+        "address": "Värsta Allé 7, 1tr, 163 51 Spånga, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8968722, 59.3823086],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 477,
+        "image": "",
+        "title": "Sjöstadens Friskvård & Thaimassage",
+        "address": "Sickla Kanalgata 34, 120 67 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1053005, 59.30454700000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 486,
+        "image": "",
+        "title": "Silver Rose Massage",
+        "address": "Tomtebogatan 18, 113 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.032872, 59.341462],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 464,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 473,
+        "image": "",
+        "title": "Somsri Thai Massage",
+        "address": "Pepparvägen 17, 123 56 Farsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0817954, 59.2553153],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 482,
+        "image": "",
+        "title": "Siam Thaimassage",
+        "address": "Nynäsvägen 32, 149 40 Nynäshamn, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.946368, 58.9145195],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 489,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 463,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 472,
+        "image": "",
+        "title": "Song Pinong Thaimassage",
+        "address": "Hamnvägen 5B, 761 32 Norrtälje, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.7127872, 59.76092019999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 481,
+        "image": "",
+        "title": "Similan Thaimassage",
+        "address": "Ringvägen 62, 118 61 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0638146, 59.3084462],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 467,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 476,
+        "image": "",
+        "title": "Sky Spa Organic Massage",
+        "address": "Kocksgatan 26, 116 24 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078618, 59.31402169999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 485,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 491,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 492,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 493,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 494,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 501,
+        "image": "",
+        "title": "Sena & Må bra massage",
+        "address": "Blekingegatan 61, 116 62 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.076222, 59.3108542],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 507,
+        "image": "",
+        "title": "Salong Manthan",
+        "address": "Rusthållarvägen 81, 128 43 Bagarmossen, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1310147, 59.2755561],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 516,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 519,
+        "image": "",
+        "title": "Relaxation Thaimassage",
+        "address": "Nynäsvägen 150, 136 37 Handen, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1292848, 59.14638419999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 529,
+        "image": "",
+        "title": "Preawa Massage",
+        "address": "Mariehällstorget 5, 168 72 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.949843, 59.3611282],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 648,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 495,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 499,
+        "image": "",
+        "title": "Sawaengchais massage",
+        "address": "Tuletorget, 172 78 Sundbyberg, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.97471, 59.364861],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 502,
+        "image": "",
+        "title": "Salong Somwang thaimassage",
+        "address": "Vallvägen 1B, 194 34 Upplands Väsby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9050328, 59.51941189999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 508,
+        "image": "",
+        "title": "Sainam SPA & Thaimassage",
+        "address": "Åkerbyvägen 344, 187 38 Täby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0757751, 59.4510239],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 511,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 518,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 528,
+        "image": "",
+        "title": "Ram Ruay Thaimassage",
+        "address": "Ekensbergsvägen 95, 169 31 Solna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9836055, 59.3614563],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 537,
+        "image": "",
+        "title": "Poonsap Thaimassage",
+        "address": "Grödingevägen 30, 152 70 Södertälje, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.6426837, 59.18908769999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 496,
+        "image": "",
+        "title": "Senz Massage",
+        "address": "Hallunda torg, 145 68 Norsborg, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8255967, 59.245056],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 497,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 498,
+        "image": "",
+        "title": "Sawasdee Massage",
+        "address": "Igeldammsgatan 32, 112 49 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0234032, 59.33814599999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 500,
+        "image": "",
+        "title": "Seng Swang Thaimassage",
+        "address": "Farstavägen 105, 123 32 Farsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0888754, 59.2427495],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 503,
+        "image": "",
+        "title": "Sangwan Friskvård och Massage",
+        "address": "Barnhusgatan 10, 111 23 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566925, 59.3362443],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 504,
+        "image": "",
+        "title": "Sandee’s massage",
+        "address": "Ståltrådsvägen 24, 168 68 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9741105, 59.3460923],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 505,
+        "image": "",
+        "title": "Sara Massage & Spa",
+        "address": "BROMMAPLAN 422, 168 76 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9381553, 59.3396239],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 506,
+        "image": "",
+        "title": "Salong Sea Breeze",
+        "address": "Flyglärargatan 7, 128 36 Skarpnäck, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1244832, 59.2676611],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 509,
+        "image": "",
+        "title": "Sakura Relax Massage",
+        "address": "Bondegatan 68, 116 33 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0874806, 59.3138213],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 510,
+        "image": "",
+        "title": "Salong M-Nawaporn",
+        "address": "Södergatan 28, 195 47 Märsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8584028, 59.62653270000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 513,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520,
+        "image": "",
+        "title": "Sabai Sabai",
+        "address": "Linnégatan 50, 114 54 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0840755, 59.33634840000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 523,
+        "image": "",
+        "title": "Sabay Sabay",
+        "address": "Sjödalstorget 17, 141 47 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.981873, 59.23510759999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 527,
+        "image": "",
+        "title": "PW Thai Massage",
+        "address": "Hammarbyvägen 48, 194 36 Upplands Väsby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9161436, 59.5271084],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 531,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 536,
+        "image": "",
+        "title": "Saisans Massage & Friskvård",
+        "address": "Skolvägen 11C, 184 30 Åkersberga, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.2986615, 59.4830726],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 539,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 545,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 512,
+        "image": "",
+        "title": "Saimai Thai Massage",
+        "address": "KÄLLÄNGSTORGET 6, 181 44 Lidingö, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1436501, 59.3737293],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 524,
+        "image": "",
+        "title": "SabaiDee Massage",
+        "address": "Tunnlandsvägen 22, 168 36 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9424643, 59.3350261],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 532,
+        "image": "",
+        "title": "Pin Ma Nee Massage",
+        "address": "Gjuteribacken 19, 172 65 Sundbyberg, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9698659, 59.3601421],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 542,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 549,
+        "image": "",
+        "title": "Phi Phi Spa & Thaimassage",
+        "address": "Sigfridsvägen 4, 126 50 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0039605, 59.3062139],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 557,
+        "image": "",
+        "title": "Pennapha Thaimassage",
+        "address": "Maria Krantzons väg 25, 194 56 Upplands Väsby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9350721, 59.51982280000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 566,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 576,
+        "image": "",
+        "title": "Orchide Massage",
+        "address": "Rådmansgatan 37, 113 58 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0608911, 59.3408347],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 514,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 525,
+        "image": "",
+        "title": "RORE Spa & Thaimassage",
+        "address": "Hauptvägen 8, 123 58 Farsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0794483, 59.25761889999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 533,
+        "image": "",
+        "title": "Piya Thaimassage & Spa",
+        "address": "Kvarnbacksvägen 79, 168 74 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9478823, 59.34109960000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 543,
+        "image": "",
+        "title": "Pim Thaimassage",
+        "address": "Fleminggatan 29, 112 26 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0430358, 59.33288959999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 547,
+        "image": "",
+        "title": "Phimai  Thaimassage",
+        "address": "Bragevägen 8, 136 38 Handen, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1451477, 59.1697558],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 556,
+        "image": "",
+        "title": "Pennys massage & relax",
+        "address": "Svandammsvägen 5, 126 32 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0153565, 59.3017386],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 564,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 517,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 526,
+        "image": "",
+        "title": "Rimbo Thaimassage",
+        "address": "Uppsalavägen 3, 762 31 Rimbo, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.3657647, 59.74354089999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 534,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 541,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 551,
+        "image": "",
+        "title": "Phakdee Massage",
+        "address": "Sankt Eriksgatan 85, 113 32 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0370209, 59.34082859999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 559,
+        "image": "",
+        "title": "Pathumma Thaimassage",
+        "address": "Stopvägen 106, 168 36 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.941435, 59.3375337],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 568,
+        "image": "",
+        "title": "Pans Solarium & massage Finntorp",
+        "address": "Gamla Värmdövägen 5, 131 36 Nacka, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1370837, 59.308061],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 575,
+        "image": "",
+        "title": "Orchidé Massage & Spa Södra Station",
+        "address": "Fatburs Brunnsgata 13, 118 28 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0663379, 59.3142227],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 712,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 522,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 535,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 544,
+        "image": "",
+        "title": "Phurita massage",
+        "address": "Skebokvarnsvägen 223, 124 52 Bandhagen, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0365943, 59.26563280000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 553,
+        "image": "",
+        "title": "Phairin spa & Massage",
+        "address": "Tranebergsvägen 11, 167 45 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9904437, 59.33415119999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 562,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 571,
+        "image": "",
+        "title": "Pairin Thai massage",
+        "address": "Pressarvägen 19, 176 71 Järfälla, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8056, 59.4547824],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 580,
+        "image": "",
+        "title": "Number one Thaimassage",
+        "address": "Skördevägen 4A, 186 31 Vallentuna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0779235, 59.5336891],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 589,
+        "image": "",
+        "title": "Number Wan Thaimassage",
+        "address": "Grödingevägen 89B, 152 57 Södertälje, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.6603986, 59.18531729999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 598,
+        "image": "",
+        "title": "Nanone Relaxing och Massage",
+        "address": "Jungfruns gata 412, 136 60 Haninge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1680535, 59.1719525],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 538,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 548,
+        "image": "",
+        "title": "Phikul Spa & Salong",
+        "address": "Brommabågen 21, 168 76 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9373744, 59.33956079999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 558,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 567,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 574,
+        "image": "",
+        "title": "Ouy Skönhetsvård Thaimassage",
+        "address": "Södergatan 5, 195 34 Märsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.857769, 59.623405],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 583,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 593,
+        "image": "",
+        "title": "Nok Thaimassage",
+        "address": "Finspångsvägen 1A, 194 34 Upplands Väsby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9043965, 59.5203478],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 704,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 546,
+        "image": "",
+        "title": "Phiophon Massage",
+        "address": "Gröndalsvägen 40, 117 66 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0110121, 59.3160223],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 554,
+        "image": "",
+        "title": "Phairin spa & Massage",
+        "address": "Tranebergsvägen 11, 167 45 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9904437, 59.33415119999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 563,
+        "image": "",
+        "title": "Panwa Massage",
+        "address": "Hornsgatan 66, 118 21 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0596072, 59.3186323],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 573,
+        "image": "",
+        "title": "Pa Ruay Thaimassage",
+        "address": "Uppfartsvägen 3, 169 38 Solna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9875815, 59.3663919],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 584,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 592,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 599,
+        "image": "",
+        "title": "Nana Thaimassage & Fotvård Solna",
+        "address": "Wiboms Väg 13, 171 60 Solna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9966683, 59.3473712],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 608,
+        "image": "",
+        "title": "Mung Mee Thaimassage",
+        "address": "Lötbacken 6, 142 30 Skogås, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1532001, 59.21655289999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 715,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 550,
+        "image": "",
+        "title": "Phim Jai Thaimassage",
+        "address": "Vänortsringen 50, 195 30 Märsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8550918, 59.61909250000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 560,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 569,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 578,
+        "image": "",
+        "title": "Örby Skönhetssalong",
+        "address": "Gamla Huddingevägen 424B, 125 42 Älvsjö, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0272486, 59.27575239999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 588,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 597,
+        "image": "",
+        "title": "Natural Aroma Terapi",
+        "address": "Gottstavägen 36, 763 41 Hallstavik, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.5984489, 60.04508869999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 606,
+        "image": "",
+        "title": "Naa Body Care",
+        "address": "Norrgårdsvägen 7, 197 30 Bro, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.638105, 59.5145737],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 555,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 565,
+        "image": "",
+        "title": "Pantra",
+        "address": "Rörvägen 6, 136 50 Haninge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1215455, 59.1397436],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 572,
+        "image": "",
+        "title": "Palmy Thaimassage",
+        "address": "Kungstensgatan 28A, 113 57 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0584917, 59.3419108],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 581,
+        "image": "",
+        "title": "Prakay Spa Massage",
+        "address": "Sigrid Undsets gata 15, 168 49 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8865304, 59.34730709999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 590,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 600,
+        "image": "",
+        "title": "NaNa Massage",
+        "address": "Granängsringen 56, 135 44 Tyresö, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.2276939, 59.2375674],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 609,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 617,
+        "image": "",
+        "title": "Movao Thai Spa",
+        "address": "Gustafsvägen 5, 169 58 Solna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0054453, 59.3650586],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 577,
+        "image": "",
+        "title": "Orchidé Massage & Spa Slussen",
+        "address": "Guldgränd 1, 118 20 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0699074, 59.3203432],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 587,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 596,
+        "image": "",
+        "title": "Natalie’s RELAX MASSAGE",
+        "address": "Skydraget 42, 163 55 Spånga, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9019739, 59.37893750000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 604,
+        "image": "",
+        "title": "Naam Petch Thaimassage",
+        "address": "Kryssarvägen 12, 183 58 Täby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0922228, 59.4288726],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 612,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 622,
+        "image": "",
+        "title": "Moo thaimassage",
+        "address": "Råstensgatan 12, 172 70 Sundbyberg, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9754231, 59.36346690000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 655,
+        "image": "",
+        "title": "Luecha Thaimassage",
+        "address": "Årstavägen 94, 120 58 Årsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0443109, 59.29945099999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 709,
+        "image": "",
+        "title": "Harmony Relax & Massage",
+        "address": "Kristinelundsvägen 2, 171 50 Solna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.988851, 59.34949349999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 582,
+        "image": "",
+        "title": "Nora 1 Thaimassage",
+        "address": "Artemisgatan 12, 115 42 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1015593, 59.3551058],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 591,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 601,
+        "image": "",
+        "title": "Nana Thaimassage & Fotvård",
+        "address": "Stockholmsvägen 29, 761 43 Norrtälje, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.6935226, 59.7533329],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 610,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 620,
+        "image": "",
+        "title": "Montra Spa och Thaimassage",
+        "address": "Frestavägen 69, 192 48 Sollentuna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9551664, 59.4528412],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 658,
+        "image": "",
+        "title": "Let’s Relax Stockholm",
+        "address": "Munkbrogatan 9, 111 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.068089, 59.3236674],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 671,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 680,
+        "image": "",
+        "title": "Kanlaya Cha am Thaimassage",
+        "address": "Hägernäsvägen 7, 183 66 Täby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1216423, 59.4475417],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 716,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 585,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 594,
+        "image": "",
+        "title": "Ngön Thaimassage",
+        "address": "Koldinggatan 4, 164 46 Kista, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9481925, 59.3970016],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 603,
+        "image": "",
+        "title": "Nada Thai",
+        "address": "Rålambsvägen 21, 112 59 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0141337, 59.3281933],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 611,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 621,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 663,
+        "image": "",
+        "title": "Lilla Siam Thaimassage",
+        "address": "Gamla Huddingevägen 453, 125 42 Älvsjö, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0212041, 59.2735877],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 673,
+        "image": "",
+        "title": "Kinnaree Thaimassage & Spa",
+        "address": "Marknadsvägen 263, 183 79 Täby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0816788, 59.4471657],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 586,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 595,
+        "image": "",
+        "title": "Nee thaimassage",
+        "address": "Järfällavägen 186, 177 41 Järfälla, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.824692, 59.4346014],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 605,
+        "image": "",
+        "title": "Mysiga Grodan",
+        "address": "Birkagatan 33, 113 39 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0357013, 59.3419239],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 614,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 623,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 664,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 672,
+        "image": "",
+        "title": "Klong Bun Massage",
+        "address": "Gjuteribacken 19, 172 65 Sundbyberg, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9698659, 59.3601421],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 602,
+        "image": "",
+        "title": "NamNeung Thaimassage",
+        "address": "Gamla Dalarövägen 56, 122 31 Enskede, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0949336, 59.2797396],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 613,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 619,
+        "image": "",
+        "title": "Norrtälje Spa Massage & Friskvård",
+        "address": "Vegagatan 5A, 761 32 Norrtälje, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.7097909, 59.7602997],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 674,
+        "image": "",
+        "title": "Khon Kaen Massage",
+        "address": "Vällingbyvägen 134, 162 63 Vällingby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8790819, 59.3647218],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 684,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 688,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 693,
+        "image": "",
+        "title": "Juni Aponia",
+        "address": "Karlbergsvägen 42, 113 62 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0398084, 59.3428486],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 695,
+        "image": "",
+        "title": "JIB Massage",
+        "address": "Alkärrgatan 2, 149 31 Nynäshamn, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9413016, 58.90258559999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 607,
+        "image": "",
+        "title": "MOVE Thai Yoga Massage w/Dusan",
+        "address": "Vintrosagatan 15, 124 73 Bandhagen, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0176959, 59.2618656],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 616,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 625,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 675,
+        "image": "",
+        "title": "Katt Thaimassage",
+        "address": "Palandergatan 9, 121 37 Johanneshov, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0880021, 59.29733220000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 683,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 692,
+        "image": "",
+        "title": "k.k massage",
+        "address": "Regnstigen 3, 169 60 Solna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0082045, 59.3588787],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 696,
+        "image": "",
+        "title": "Jasmine Thaimassage",
+        "address": "Kvarnvägen 6, 177 64 Järfälla, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8283681, 59.42428109999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 702,
+        "image": "",
+        "title": "Jandaou Thaimassage",
+        "address": "Nimrodsgatan 24b, 115 42 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0981856, 59.3551069],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 706,
+        "image": "",
+        "title": "Hilot Thai Massage",
+        "address": "Enskiftesvägen 4, 145 60 Norsborg, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8647828, 59.2326778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 615,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 624,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 676,
+        "image": "",
+        "title": "Karlaplans Friskvårdsmassage",
+        "address": "Karlavägen 84, 115 22 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0921798, 59.3370334],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 685,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 694,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 697,
+        "image": "",
+        "title": "Jib Kroppsvård",
+        "address": "Kopparvägen 27, 176 72 Järfälla, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8101474, 59.45572559999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 703,
+        "image": "",
+        "title": "Imklassisk Svensk kroppsvård",
+        "address": "Mörbydalen 1, 182 52 Danderyd, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0470316, 59.3964098],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 707,
+        "image": "",
+        "title": "Hässelbymassage & Spa",
+        "address": "Maltesholmsvägen 95, 165 55 Hässelby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.841733, 59.3654639],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 618,
+        "image": "",
+        "title": "Montra thaimassage",
+        "address": "Pershagsvägen 1, 151 39 Södertälje, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.6472406, 59.1552729],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 677,
+        "image": "",
+        "title": "Kanokwan Kroppsvård",
+        "address": "Vintervägen 49, 194 64 Upplands Väsby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9422294, 59.4999194],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 686,
+        "image": "",
+        "title": "Lemon Sport Massage",
+        "address": "Vegagatan 9, 113 29 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0505988, 59.3416089],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 698,
+        "image": "",
+        "title": "JP-Thaimassage",
+        "address": "Stationsvägen 10, 184 50 Åkersberga, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.3037108, 59.47780599999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 699,
+        "image": "",
+        "title": "Järna Thaimassage",
+        "address": "Mossvägen 3, 153 37 Järna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.5665037, 59.0953831],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 705,
+        "image": "",
+        "title": "Heng Heng Spa & Salong",
+        "address": "Multrågatan 23, 162 54 Vällingby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8845418, 59.35579649999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 708,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 710,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 626,
+        "image": "",
+        "title": "Mol massage",
+        "address": "Brunnsgatan 6, 172 68 Sundbyberg, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9686282, 59.3633138],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 628,
+        "image": "",
+        "title": "Misa thaimassage",
+        "address": "Vintervägen 3, 135 40 Tyresö, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.2181091, 59.2433029],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 631,
+        "image": "",
+        "title": "Mettas massage och kroppsvård",
+        "address": "Johan Skyttes Väg 203, 125 34 Älvsjö, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0055754, 59.27774739999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 633,
+        "image": "",
+        "title": "Massage by Pimphorn",
+        "address": "Dalagatan 31, 113 23 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0428661, 59.3442024],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 641,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 646,
+        "image": "",
+        "title": "Mali Thaimassage",
+        "address": "Bagarfruvägen 24, 128 67 Sköndal, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.110194, 59.2560191],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 651,
+        "image": "",
+        "title": "Loei City Thai Massage",
+        "address": "Tallkrogsplan 95, 122 60 Enskede, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0842639, 59.2717602],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 659,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 666,
+        "image": "",
+        "title": "Lamai Thaimassage",
+        "address": "Västra Kanalgatan 11, 151 71 Södertälje, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.6282997, 59.1976015],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 627,
+        "image": "",
+        "title": "Mon mon Fotvård & Massage",
+        "address": "Bråviksvägen 4, 120 52 Årsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0550131, 59.2947419],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 630,
+        "image": "",
+        "title": "Mintra Kroppsvård",
+        "address": "Centralvägen 5, 171 68 Solna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0030353, 59.35847629999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 635,
+        "image": "",
+        "title": "Mangmee Thaimassage",
+        "address": "Tussmötevägen 224, 122 64 Enskede, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0564703, 59.28026329999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 639,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 647,
+        "image": "",
+        "title": "Maleeya Kroppsvård & Massage",
+        "address": "Messeniusgatan 6, 112 57 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9997754, 59.3305199],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 649,
+        "image": "",
+        "title": "Long Life Massage",
+        "address": "Gjörwellsgatan 43, 112 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0132461, 59.3264253],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 657,
+        "image": "",
+        "title": "Lilla´s Thaimassage",
+        "address": "Rotebro Torg 3, 192 68 Sollentuna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9122553, 59.4760889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 667,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 700,
+        "image": "",
+        "title": "Janphen Thaimassage",
+        "address": "Sjödalsbacken 3C, 141 61 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9856235, 59.2353106],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 629,
+        "image": "",
+        "title": "Mons Beauty & Thaimassage",
+        "address": "Seglatsgatan 16, 120 62 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0899371, 59.3045911],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 634,
+        "image": "",
+        "title": "Michelle Massage Stockholm",
+        "address": "Landsvägen 62, 172 65 Sundbyberg, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9647064, 59.36157610000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 640,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 644,
+        "image": "",
+        "title": "Lydia kroppsvård & Massage",
+        "address": "Bollmora Gårdsväg 3, 135 39 Tyresö, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.219507, 59.24811680000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 654,
+        "image": "",
+        "title": "Linda Massage",
+        "address": "Hammarby allé 44, 120 61 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0921031, 59.3034709],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 660,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 668,
+        "image": "",
+        "title": "Lamai Thaimassage",
+        "address": "Skärgårdsvägen 272, 139 30 Värmdö, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.4910639, 59.32302600000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 711,
+        "image": "",
+        "title": "Leelawadee Thaimassage & Spa",
+        "address": "Frihetsvägen 52, 177 33 Järfälla, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8409666, 59.4164311],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 632,
+        "image": "",
+        "title": "Moei Yong Spa Massage",
+        "address": "Tranebergsvägen 11, 167 45 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9904437, 59.33415119999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 636,
+        "image": "",
+        "title": "Maria Spa & Massage",
+        "address": "Rörstrandsgatan 62, 113 40 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0267378, 59.34295539999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 638,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 645,
+        "image": "",
+        "title": "Maneerat thaimassage",
+        "address": "Sollentunavägen 60A, 191 40 Sollentuna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9683896, 59.4131331],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 650,
+        "image": "",
+        "title": "Lucky Be Rich Beauty & Massage",
+        "address": "Ölandsgatan 45B, 116 63 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0770295, 59.3088048],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 656,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 665,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 701,
+        "image": "",
+        "title": "Jalern Thaimassage",
+        "address": "Arkitektvägen 53, 168 32 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9524634, 59.33087329999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 637,
+        "image": "",
+        "title": "Maya´s Thaimassage",
+        "address": "Terrängvägen 34, 129 48 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9725987, 59.2941607],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 643,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 652,
+        "image": "",
+        "title": "Lotus",
+        "address": "Kommunalvägen 30, 141 62 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9899737, 59.2393764],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 662,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 670,
+        "image": "",
+        "title": "Kungs Thaimassage",
+        "address": "Magnus Ladulåsgatan 51, 118 65 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.064951, 59.3124823],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 679,
+        "image": "",
+        "title": "Kanok Thaimassage",
+        "address": "Sollentunavägen 163 C, 191 47 Sollentuna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9512144, 59.4281614],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 681,
+        "image": "",
+        "title": "Kan Massage Täby",
+        "address": "Meteorvägen 14, 183 33 Täby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.072772, 59.437267],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 687,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 690,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 642,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 653,
+        "image": "",
+        "title": "Lucky Thaimassage",
+        "address": "Hammartorpsvägen 7, 142 62 Trångsund, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1333245, 59.2290045],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 661,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 678,
+        "image": "",
+        "title": "Kanlaya Thai Massage",
+        "address": "Granängsringen 64B, 135 44 Tyresö, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.229814, 59.23758399999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 682,
+        "image": "",
+        "title": "Kan Massage Fridhemsplan",
+        "address": "Baltzar von Platens gata 7A, 112 42 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0314104, 59.32943960000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 689,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 691,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 515,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 521,
+        "image": "",
+        "title": "Riverside",
+        "address": "Luxgatan 8, 112 62 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0087771, 59.32484350000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 530,
+        "image": "",
+        "title": "PK Thaimassage",
+        "address": "Luntmakargatan 75, 113 51 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.059351, 59.34156259999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 540,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 552,
+        "image": "",
+        "title": "Phakanluay Thaimassage",
+        "address": "Bryggerivägen 3, 194 39 Upplands Väsby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.903477, 59.5241956],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 561,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 570,
+        "image": "",
+        "title": "Pamee Thaimassage och Spa",
+        "address": "Petrejusvägen 55, 121 38 Johanneshov, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1019689, 59.2963096],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 579,
+        "image": "",
+        "title": "Olivia's ThaiMassage",
+        "address": "Tysta Marigången 4, 111 52 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0628384, 59.32918489999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 713,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 722,
+        "image": "",
+        "title": "Grön Massage",
+        "address": "Sjöviksvägen 50, 117 58 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0306009, 59.30659439999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 714,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 724,
+        "image": "",
+        "title": "Kan Massage City",
+        "address": "Birger Jarlsgatan 119, 113 56 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0579499, 59.3499294],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 717,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 726,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 719,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 721,
+        "image": "",
+        "title": "Hai Thong Kham Massage",
+        "address": "Vasavägen 29, 177 52 Järfälla, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8361546, 59.4204491],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 835,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 844,
+        "image": "",
+        "title": "Boda Massage",
+        "address": "Larsbodavägen 44, 123 41 Farsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0959251, 59.24444820000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 723,
+        "image": "",
+        "title": "Good Time Kroppsvård",
+        "address": "Framnäsbacken 16, 171 66 Solna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9856269, 59.35718349999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 725,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 728,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 729,
+        "image": "",
+        "title": "Glad's Traditionella Thaimassage",
+        "address": "S:t Göransgatan 125, 112 19 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0244202, 59.33420520000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 731,
+        "image": "",
+        "title": "Gig Massage",
+        "address": "Wollmar Yxkullsgatan 35, 40, 118 50 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0549955, 59.3156831],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 733,
+        "image": "",
+        "title": "Essinge Thaimassage",
+        "address": "Essinge Brogata 8, 112 61 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0069244, 59.3252463],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 737,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 745,
+        "image": "",
+        "title": "Dew Thai Massage",
+        "address": "Råsundavägen 111, 169 50 Solna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9957297, 59.3648198],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 749,
+        "image": "",
+        "title": "Classic Thaimassage",
+        "address": "Ringvägen 137, 116 61 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0802965, 59.3086327],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 756,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 765,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 730,
+        "image": "",
+        "title": "Four Friskvård",
+        "address": "Golfvägen 2, 182 31 Danderyd, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0369819, 59.39672700000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 734,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 736,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 743,
+        "image": "",
+        "title": "Elephant Thaimassage",
+        "address": "Bergdalen 2, 172 79 Sundbyberg, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9784937, 59.3687034],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 750,
+        "image": "",
+        "title": "Chuanpit Massage & Spa",
+        "address": "Ursviks Allé 37, 174 63 Sundbyberg, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9446882, 59.3841359],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 758,
+        "image": "",
+        "title": "Charm Thaimassage",
+        "address": "Duvedsvägen 13, 162 65 Vällingby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8734348, 59.36586630000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 768,
+        "image": "",
+        "title": "Chanok Thaimassage",
+        "address": "Bäckvägen 118, 129 33 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9859271, 59.3014843],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 778,
+        "image": "",
+        "title": "Bot & Bättring Massage",
+        "address": "Midgårdsvägen 8, 136 38 Handen, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1423351, 59.1689824],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 786,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 732,
+        "image": "",
+        "title": "Gaara Get Thaimassage",
+        "address": "Torget 2A, 196 30 Kungsängen, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.749775, 59.47931429999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 738,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 744,
+        "image": "",
+        "title": "Deluxe Massage",
+        "address": "Värtavägen 14, 115 24 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0929531, 59.33909],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 751,
+        "image": "",
+        "title": "Daungsomphong Massage",
+        "address": "Stamgatan 5, 125 74 Älvsjö, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0421074, 59.2832129],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 755,
+        "image": "",
+        "title": "Chillout Thaimassage",
+        "address": "Vanadisvägen 29, 113 23 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.04337, 59.34570540000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 764,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 774,
+        "image": "",
+        "title": "Bua Massage & Vaxning",
+        "address": "Stora Brogatan 12B, 761 30 Norrtälje, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.7032708, 59.7594763],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 783,
+        "image": "",
+        "title": "Farsta Massagen",
+        "address": "Nykroppagatan 27, 123 32 Farsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0818677, 59.2429638],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 792,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 801,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 735,
+        "image": "",
+        "title": "Everyday Massage",
+        "address": "Dalagatan 48, 113 24 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0462726, 59.3413071],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 740,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 746,
+        "image": "",
+        "title": "DeeDee Thaimassage",
+        "address": "Gustavslundsvägen 165, 167 51 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9791144, 59.33273879999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 752,
+        "image": "",
+        "title": "Daeng Thaimassage",
+        "address": "Dalarövägen 16, 136 46 Handen, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1432646, 59.17361140000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 759,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 766,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 777,
+        "image": "",
+        "title": "Boracay Serene Sveavägen",
+        "address": "Sveavägen 124, 113 50 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0547205, 59.3453681],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 739,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 742,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 748,
+        "image": "",
+        "title": "Daisy Thaimassage",
+        "address": "Nettovägen 1, 175 41 Järfälla, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8403008, 59.4076657],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 757,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 767,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 779,
+        "image": "",
+        "title": "Boracay Serene Östermalm",
+        "address": "Armfeltsgatan 14, 115 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0893606, 59.34427400000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 788,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 741,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 754,
+        "image": "",
+        "title": "Dao Rung Thaimassage",
+        "address": "Artillerigatan 97, 115 30 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0891103, 59.3435408],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 762,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 770,
+        "image": "",
+        "title": "Chabaa Massage",
+        "address": "Observatoriegatan 7, 113 29 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0517221, 59.34066920000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 773,
+        "image": "",
+        "title": "Bua sawan Massage",
+        "address": "Kopparvägen 39, 176 72 Järfälla, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8121608, 59.45615970000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 782,
+        "image": "",
+        "title": "Boonchoo Thaimassage",
+        "address": "Vatthagsvägen 3, 194 52 Upplands Väsby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9285349, 59.5162321],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 791,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 747,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 760,
+        "image": "",
+        "title": "Chawee Thaimassage",
+        "address": "Narcissvägen 12, 125 55 Älvsjö, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9657655, 59.27784669999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 769,
+        "image": "",
+        "title": "Chang thai massage Södermalm",
+        "address": "Wollmar Yxkullsgatan 35, 118 50 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0549955, 59.3156831],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 776,
+        "image": "",
+        "title": "Botan Thaimassage",
+        "address": "Kanalvägen 1A, 194 61 Upplands Väsby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9274413, 59.4975587],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 784,
+        "image": "",
+        "title": "Body Care Thaimassage",
+        "address": "Stjärnsundsgatan 29, 124 72 Bandhagen, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0060677, 59.25972050000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 793,
+        "image": "",
+        "title": "Bibi Thaimassage",
+        "address": "Persikogatan 38, 165 63 Hässelby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8319304, 59.36286759999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 802,
+        "image": "",
+        "title": "Bangkok Thaimassage",
+        "address": "Tegnérlunden 1, 111 61 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0558689, 59.33829489999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 811,
+        "image": "",
+        "title": "Chaophaya Spa Relax & Thaimassage",
+        "address": "Spångavägen 300, 163 46 Spånga, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9014808, 59.36660019999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 753,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 763,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 772,
+        "image": "",
+        "title": "Chan Thip massage",
+        "address": "Stiernhielmsvägen 20, 112 44 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0136239, 59.3342872],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 780,
+        "image": "",
+        "title": "Gam-Rai Thaimassage",
+        "address": "Förskottsvägen 15, 129 32 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9848061, 59.2985797],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 789,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 808,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 817,
+        "image": "",
+        "title": "Baan Thai Spa",
+        "address": "Orvar Odds väg 1, 112 54 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0005883, 59.32988020000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 826,
+        "image": "",
+        "title": "Aphinyas Thaimassage",
+        "address": "Loviselundsvägen 28, 165 59 Hässelby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8371865, 59.3686148],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 761,
+        "image": "",
+        "title": "Gamla Stan thaimassage",
+        "address": "Skomakargatan 26, 111 29 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0705017, 59.32461250000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 771,
+        "image": "",
+        "title": "Chada Thaimassage",
+        "address": "Kalmgatan 8, 121 45 Johanneshov, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0898631, 59.29868320000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 781,
+        "image": "",
+        "title": "BOON PHA Thaimassage",
+        "address": "Vasavägen 16, 169 58 Solna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0030575, 59.36466220000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 790,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 798,
+        "image": "",
+        "title": "Benja Thai Massage & Spa",
+        "address": "Björkvägen 3, 153 36 Järna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.5619893, 59.0936007],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 807,
+        "image": "",
+        "title": "Baanchangkhaw",
+        "address": "Valhallavägen 147, 115 31 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.090148, 59.3412018],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 816,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 825,
+        "image": "",
+        "title": "Aree Thaimassage",
+        "address": "Edsbergs torg 22, 192 52 Sollentuna, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9657485, 59.4461528],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 833,
+        "image": "",
+        "title": "Aalindas Thaimassage",
+        "address": "Fleminggatan 99, 112 45 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0294416, 59.3347527],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 843,
+        "image": "",
+        "title": "Arisa Thaimassage",
+        "address": "Albygatan 120, 172 63 Sundbyberg, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9711873, 59.35677320000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 775,
+        "image": "",
+        "title": "Bromma Thaimassage",
+        "address": "Klädesvägen 18, 168 76 Bromma, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9409905, 59.33869139999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 785,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 794,
+        "image": "",
+        "title": "Blommans Thaimassage",
+        "address": "Idunvägen 11, 136 42 Handen, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1462686, 59.16495409999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 803,
+        "image": "",
+        "title": "Bangkok Beach Thai massage",
+        "address": "Fredriksdalsgatan 10, 120 32 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.082944, 59.302452],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 812,
+        "image": "",
+        "title": "Sukhuthai Massage Odenplan",
+        "address": "Vidargatan 9, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0478837, 59.343785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 821,
+        "image": "",
+        "title": "Ayutthaya Thaimasage Spa",
+        "address": "Artemisgatan 15, 115 42 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1000535, 59.3551611],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 830,
+        "image": "",
+        "title": "ANAN Spa & Massage",
+        "address": "Timmermansgatan 38B, 118 55 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0611245, 59.3154339],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 839,
+        "image": "",
+        "title": "Patty Thaimassage Telefonplan",
+        "address": "Pingstvägen 62, 126 36 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9939523, 59.3017583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 787,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 795,
+        "image": "",
+        "title": "Bens Spa & Thaimassage",
+        "address": "Karlbergsvägen 11, 113 27 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0456398, 59.3426562],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 806,
+        "image": "",
+        "title": "Baanmai Thaimassage",
+        "address": "Skarpnäcks Allé 72, 128 33 Skarpnäck, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1336435, 59.26593629999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 815,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 824,
+        "image": "",
+        "title": "AREE THAIMASSAGE",
+        "address": "Ringvägen 60, 118 61 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0632022, 59.3086502],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 834,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 842,
+        "image": "",
+        "title": "10x10 Thaimassage",
+        "address": "Artillerigatan 87, 115 30 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0876416, 59.34242439999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 796,
+        "image": "",
+        "title": "Benyathaimassage i Upplands Väsby",
+        "address": "Centralvägen 8C, 194 76 Upplands Väsby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9062035, 59.52071079999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 804,
+        "image": "",
+        "title": "Ban Wai Thaimassage",
+        "address": "Diagonalen 1A, 195 47 Märsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.8597943, 59.6271954],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 813,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 822,
+        "image": "",
+        "title": "Årstaberg Thaimassage",
+        "address": "Svärdlångsvägen 54, 120 60 Årsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0309056, 59.29886620000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 831,
+        "image": "",
+        "title": "Älvsjö Care",
+        "address": "Kontrollvägen 11, 126 79 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0027239, 59.2931401],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 840,
+        "image": "",
+        "title": "Baramee Massage",
+        "address": "Kammakargatan 21, 111 60 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0566252, 59.3375856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 797,
+        "image": "",
+        "title": "Beauty Massage",
+        "address": "August Wahlströms väg 5, 182 31 Danderyd, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.036415, 59.396123],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 805,
+        "image": "",
+        "title": "Baibun Thaimassage",
+        "address": "Idunvägen 33, 136 42 Handen, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.146317, 59.16408609999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 814,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 823,
+        "image": "",
+        "title": "Aticha thai massage",
+        "address": "Svärdlångsvägen 31, 120 60 Årsta, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0349893, 59.3009697],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 832,
+        "image": "",
+        "title": "Akalla Thaimassage",
+        "address": "Sibeliusgången 38, 164 72 Kista, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9119443, 59.4159742],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 841,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 800,
+        "image": "",
+        "title": "Bankala AB",
+        "address": "Radarvägen 1, 183 61 Täby, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1199331, 59.4501695],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 809,
+        "image": "",
+        "title": "Baan Thung Massage",
+        "address": "Coldinutrappan 1, 112 28 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0453812, 59.33016899999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 818,
+        "image": "",
+        "title": "Baan Thai massage",
+        "address": "Högalidsgatan 13, 117 30 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0330755, 59.31785009999999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 828,
+        "image": "",
+        "title": "Cherry Thaimassage & Beauty Salong",
+        "address": "Bragevägen 1, 136 38 Handen, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.1455396, 59.17032570000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 838,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 846,
+        "image": "",
+        "title": "Pin Anu Thaimassage",
+        "address": "Franzéngatan 26, 112 16 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0089417, 59.3399206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 810,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 819,
+        "image": "",
+        "title": "Im-Em Spa & Thaimassage",
+        "address": "Grev Turegatan 44, 114 38 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.078152, 59.3384538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 827,
+        "image": "",
+        "title": "Ann Thaimassage",
+        "address": "Gröndalsvägen 39, 117 66 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.011053, 59.3157803],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 836,
+        "image": "",
+        "title": "St Erik Spa & Massage",
+        "address": "Sankt Eriksgatan 59, 112 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0336934, 59.3362247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 845,
+        "image": "",
+        "title": "Hälsan Thai Massage i Hägersten",
+        "address": "Inteckningsvägen 18, 129 31 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9838519, 59.29204290000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 820,
+        "image": "",
+        "title": "Aungun Spa Therapy",
+        "address": "Västmannagatan 11, 111 24 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0522889, 59.33667980000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829,
+        "image": "",
+        "title": "Anna Thaimassage & Spa",
+        "address": "Sätraängsvägen 10, 182 36 Danderyd, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0294535, 59.41033880000001],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 837,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 847,
+        "image": "",
+        "title": "Deejung Massage",
+        "address": "Stationsvägen 43, 141 40 Huddinge, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9975554, 59.2523978],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 718,
+        "image": "",
+        "title": "Hälsan Thai Massage i Fruängen",
+        "address": "Elsa Borgs gata 52, 129 53 Hägersten, Sweden"
+      },
+      "geometry": {
+        "coordinates": [17.9645128, 59.2826083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 727,
+        "image": "",
+        "title": "Good Massage",
+        "address": "Hornsbruksgatan 13, 117 34 Stockholm, Sweden"
+      },
+      "geometry": {
+        "coordinates": [18.0376075, 59.31630930000001],
+        "type": "Point"
+      }
+    }
+  ]
+}
